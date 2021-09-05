@@ -1,4 +1,4 @@
-### Hi, I am Myrat Charyyev 👋
+### Hi there
 
 
 
