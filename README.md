@@ -1,6 +1,6 @@
 ### Hi there
 
-
+<!-- 
 
 
 - 🔭 I'm currently working on my own projects.
@@ -9,5 +9,5 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ... --> -->
 
