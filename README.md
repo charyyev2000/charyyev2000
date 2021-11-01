@@ -58,3 +58,5 @@ Detail-oriented Front-End Developer | React.js with a zest of perseverance to so
 
 
 <img src="https://profile-counter.glitch.me/peura-lady/count.svg" />
+
+![Myrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=charyyev2000&hide=contribs,prs)
