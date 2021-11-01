@@ -23,12 +23,11 @@ Detail-oriented Front-End Developer | React.js with a zest of perseverance to so
 
 - 👨‍💻 My goal is to become ✨<b>successful Front-End Developer</b>✨
 - 🌱 I’m currently learning TypeScript
-- 📈 Studied Front-End Development in Haaga-Helia UAS
 - 👯 I’m looking for new opportunities!
 - 💬 Ask me about anything 
 - 👯 I’m looking to collaborate with people, who are as passionate about Front-End Development as I am!
 - 💭 Share with me your interests
-- 
+- ⚡ Fun Fact: I can speak 4 languages ( Turkmen, Russian, English, Chinese )
 
 <br>
 
