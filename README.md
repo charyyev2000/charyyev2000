@@ -1,21 +1,20 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px">
 
-<a href="https://www.linkedin.com/in/sonninen-anna-09643680/">
-  <img align="left" alt="Sonninen's LinkedIn" width="22px" src="https://user-images.githubusercontent.com/64637806/118018764-1c63f300-b350-11eb-879a-b1025a01ca4c.png" />
+<a href="https://linkedin.com/in/myrat-charyyev">
+  <img align="left" alt="Myrat's LinkedIn" width="22px" src="https://user-images.githubusercontent.com/64637806/118018764-1c63f300-b350-11eb-879a-b1025a01ca4c.png" />
 </a>
 <a href="https://www.instagram.com/myrat_charyyev/">
-  <img align="left" alt="Sonninen's Instagram" width="22px" src="https://user-images.githubusercontent.com/64637806/118018767-1d952000-b350-11eb-9749-82bdaca2b406.png" />
+  <img align="left" alt="Myrat's Instagram" width="22px" src="https://user-images.githubusercontent.com/64637806/118018767-1d952000-b350-11eb-9749-82bdaca2b406.png" />
 </a>
-<a href="mailto:anna.sonninen94@gmail.com">
-  <img align="left" alt="Sonninen's Gmail" width="22px" src="https://user-images.githubusercontent.com/64637806/118021483-2b987000-b353-11eb-803c-d2445eb01288.png" />
+<a href="mailto:charyyev2018@mail.ru">
+  <img align="left" alt="Myrat's Gmail" width="22px" src="https://user-images.githubusercontent.com/64637806/118021483-2b987000-b353-11eb-803c-d2445eb01288.png" />
 </a>
-<a href="https://www.goodreads.com/user/show/51603868-anya">
-  <img align="left" alt="Sonninen's Goodreads" width="22px" src="https://user-images.githubusercontent.com/64637806/118018801-2a197880-b350-11eb-8a36-8c28a327ddd7.png" />
-</a>
+
+
 
 <br>
 <br>
-I am <a href= "https://github.com/peura-lady"><b> Myrat Charyyev. </b></a>
+I am <a href= "https://github.com/charyyev2000"><b> Myrat Charyyev. </b></a>
 Detail-oriented Front-End Developer | React.js with a zest of perseverance to solve the problem. Why Front-End Development? Because you can create beautiful static design throught communication with a computer! What kind of scientific magic is that? 🤓
 
 ### Currently focusing on Front-End Development improvements
