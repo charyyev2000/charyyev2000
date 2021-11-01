@@ -53,10 +53,6 @@ Detail-oriented Front-End Developer | React.js with a zest of perseverance to so
 
 ### GitHub stats
 
-<img height=158 src="https://github-readme-stats.vercel.app/api/top-langs/?username=peura-lady&theme=radical&line_height=10&hide_langs_below=1&layout=compact" /> <img height=158 src="https://github-readme-stats.vercel.app/api?username=peura-lady&show_icons=true&theme=gotham" alt="peura-lady" />
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=peura-lady&column=7&theme=dracula&no-frame=true" alt="Anya's github trophy"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charyyev2000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://profile-counter.glitch.me/peura-lady/count.svg" />
-
-![Myrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=charyyev2000&hide=contribs,prs)
