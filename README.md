@@ -19,7 +19,7 @@ Detail-oriented Front-End Developer | React.js with a zest of perseverance to so
 
 ### Currently focusing on Front-End Development improvements
 
-<img align="right" alt="GIF" height="300px" src="https://media4.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=790b761168720c129200900c7837880f7557ae6e890f05e2&rid=giphy.gif&ct=g" />
+<img align="right" alt="GIF" height="250px" src="https://media4.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=790b761168720c129200900c7837880f7557ae6e890f05e2&rid=giphy.gif&ct=g" />
 
 - 👨‍💻 My goal is to become ✨<b>successful Front-End Developer</b>✨
 - 🌱 I’m currently learning TypeScript
