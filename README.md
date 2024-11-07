@@ -22,10 +22,10 @@ Detail-oriented Front-End Developer | React.js with a zest of perseverance to so
 <img align="right" alt="GIF" height="300px" src="https://media4.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=790b761168720c129200900c7837880f7557ae6e890f05e2&rid=giphy.gif&ct=g" />
 
 - 👨‍💻 My goal is to become ✨<b>successful Front-End Developer</b>✨
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking for new opportunities!
 - 💬 Ask me about anything 
-- 👯 I’m looking to collaborate with people, who are as passionate about Front-End Development as I am!
+- 👯 I’m looking to collaborate with people, who are as passionate about Machine Learning Engineer as I am!
 - 💭 Share with me your interests
 - ⚡ Fun Fact: I can speak 4 languages ( Turkmen, Russian, English, Chinese )
 
