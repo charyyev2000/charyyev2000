@@ -15,7 +15,7 @@
 <br>
 <br>
 I am <a href= "https://github.com/charyyev2000"><b> Myrat Charyyev. </b></a>
-Detail-oriented Front-End Developer | React.js with a zest of perseverance to solve the problem. Why Front-End Development? Because you can create beautiful static design throught communication with a computer! What kind of scientific magic is that? 🤓
+Detail-oriented Front-End Developer | Next Js with a zest of perseverance to solve the problem. Why Front-End Development? Because you can create beautiful static design throught communication with a computer! What kind of scientific magic is that? 🤓
 
 ### Currently focusing on Front-End Development improvements
 
